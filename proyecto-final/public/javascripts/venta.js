@@ -9,5 +9,5 @@ const VentaEsquema = new esquema({
     
 });
 
-module.exports = mongoose.model('VentaEsquema',ventaEsquema);
+module.exports = mongoose.model('VentaEsquema',VentaEsquema);
                                 // nombre de la coleccion de la base de datos
